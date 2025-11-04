@@ -65,7 +65,6 @@ A collection of small JavaScript projects demonstrating problem-solving, DOM man
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vedantkode&show_icons=true&theme=tokyonight" alt="Vedant's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedantkode&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantkode&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
